@@ -1,9 +1,9 @@
 const data = {
   hot_drinks: [
     { item: "Espresso", price: 12 },
-    { item: "Cappucino", price: 25 },
+    { item: "Cappucino", price: 30 },
     { item: "Americano", price: 15 },
-    { item: "Nescafe", price: 25 },
+    { item: "Nescafe", price: 30 },
     { item: "White Mocha", price: 40 },
     { item: "Latte", price: 40 },
     { item: "Latte Machiato", price: 40 },
