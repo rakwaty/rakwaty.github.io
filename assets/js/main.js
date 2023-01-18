@@ -70,7 +70,8 @@ const data = {
   ],
   nuts_candy: [
     { item: "Original Nuts (1KG)", price: 220 },
-    { item: "Extra Nuts (200g)", price: 104 },
+    { item: "Extra Nuts (200g)", price: 160
+ },
     { item: "Gummies (200g)", price: 44 },
   ],
 };
