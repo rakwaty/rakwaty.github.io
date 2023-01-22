@@ -1,6 +1,6 @@
 const data = {
   hot_drinks: [
-    { item: "Espresso", price: 12 },
+    { item: "Espresso", price: 15 },
     { item: "Cappucino", price: 30 },
     { item: "Americano", price: 15 },
     { item: "Nescafe", price: 30 },
@@ -21,7 +21,7 @@ const data = {
     { item: "Mocha Frappuccino", price: 70 },
     { item: "White Mocha Frappuccino", price: 70 },
     { item: "French Frappe", price: 70 },
-    { item: "Water", price: 8 },
+    { item: "Water", price: 10 },
   ],
   ice_coffee: [
     { item: "Caramel Ice Latte", price: 50 },
