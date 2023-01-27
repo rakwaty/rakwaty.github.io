@@ -52,7 +52,7 @@ const data = {
     { item: "Passion Fruit Smoothie", price: 80 },
   ],
   ground_coffee: [
-    { item: "Original Blend", price: 260 },
+    { item: "Original Blend", price: 280 },
     { item: "Masabat Blend", price: 240 },
   ],
   crepe: [
@@ -69,10 +69,10 @@ const data = {
     { item: "Fettuccine Lotus", price: 90 },
   ],
   nuts_candy: [
-    { item: "Original Nuts (1KG)", price: 240 },
+    { item: "Original Nuts (1KG)", price: 250 },
     { item: "Extra Nuts (200g)", price: 160
  },
-    { item: "Gummies (200g)", price: 48 },
+    { item: "Gummies (200g)", price: 50 },
   ],
 };
 
