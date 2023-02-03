@@ -1,6 +1,6 @@
 const data = {
   hot_drinks: [
-    { item: "Espresso", price: 15 },
+    { item: "Espresso", price: 20 },
     { item: "Cappucino", price: 35 },
     { item: "Americano", price: 30 },
     { item: "Nescafe", price: 35 },
@@ -52,8 +52,8 @@ const data = {
     { item: "Passion Fruit Smoothie", price: 80 },
   ],
   ground_coffee: [
-    { item: "Original Blend", price: 280 },
-    { item: "Masabat Blend", price: 240 },
+    { item: "Original Blend", price: 300 },
+    { item: "Masabat Blend", price: 270 },
   ],
   crepe: [
     { item: "Chocolate", price: 70 },
