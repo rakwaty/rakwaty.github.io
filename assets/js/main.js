@@ -21,7 +21,7 @@ const data = {
     { item: "Mocha Frappuccino", price: 80 },
     { item: "White Mocha Frappuccino", price: 80 },
     { item: "French Frappe", price: 80 },
-    { item: "Water", price: 10 },
+    { item: "Water", price: 12 },
   ],
   ice_coffee: [
     { item: "Caramel Ice Latte", price: 60 },
@@ -52,8 +52,8 @@ const data = {
     { item: "Passion Fruit Smoothie", price: 80 },
   ],
   ground_coffee: [
-    { item: "Original Blend", price: 300 },
-    { item: "Masabat Blend", price: 270 },
+    { item: "Original Blend", price: 340 },
+    { item: "Masabat Blend", price: 280 },
   ],
   crepe: [
     { item: "Chocolate", price: 70 },
