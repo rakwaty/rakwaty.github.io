@@ -55,19 +55,6 @@ const data = {
     { item: "Original Blend", price: 340 },
     { item: "Masabat Blend", price: 280 },
   ],
-  crepe: [
-    { item: "Chocolate", price: 70 },
-    { item: "White Chocolate", price: 75 },
-    { item: "Lotus", price: 85 },
-    { item: "Sandwich", price: 100 },
-  ],
-  pancake: [
-    { item: "Chocolate", price: 80 },
-    { item: "White Chocolate", price: 80 },
-    { item: "Lotus", price: 100 },
-    { item: "Fettuccine Chocolate", price: 80 },
-    { item: "Fettuccine Lotus", price: 90 },
-  ],
   nuts_candy: [
     { item: "Original Nuts (1KG)", price: 250 },
     { item: "Extra Nuts (200g)", price: 160
