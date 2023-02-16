@@ -11,7 +11,7 @@ const data = {
     { item: "Vanilla Latte", price: 60 },
     { item: "Spanish Latte", price: 60 },
     { item: "Irish Latte", price: 60 },
-    { item: "Hot Chocolate", price: 50 },
+    { item: "Hot Chocolate", price: 60 },
     { item: "Tea", price: 20 },
   ],
   cold_drinks: [
