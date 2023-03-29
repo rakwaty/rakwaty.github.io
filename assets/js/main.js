@@ -43,6 +43,7 @@ const data = {
     { item: "Orea Cookies Milkshake", price: 140 },
     { item: "Nescafe Milkshake", price: 140 },
     { item: "Blueberry Milkshake", price: 140 },
+    { item: "Brownie Milkshake", price: 150 },
   ],
   smoothies: [
     { item: "Peach Smoothie", price: 120 },
