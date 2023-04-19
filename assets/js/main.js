@@ -1,10 +1,10 @@
 const data = {
   hot_drinks: [
-    { item: "Espresso", price: 25 },
-    { item: "Cappucino", price: 40 },
-    { item: "Americano", price: 30 },
-    { item: "Nescafe", price: 40 },
-    { item: "White Mocha", price: 80 },
+    { item: "Espresso", price: 30 },
+    { item: "Cappucino", price: 60 },
+    { item: "Americano", price: 50 },
+    { item: "Nescafe", price: 60 },
+    { item: "White Mocha", price: 100 },
     { item: "Latte", price: 100 },
     { item: "Latte Machiato", price: 100 },
     { item: "Caramel Latte", price: 100 },
@@ -15,13 +15,13 @@ const data = {
     { item: "Tea", price: 25 },
   ],
   cold_drinks: [
-    { item: "Frappuccino", price: 140 },
-    { item: "Caramel Frappuccino", price: 140 },
-    { item: "Vanilla Frappuccino", price: 140 },
-    { item: "Mocha Frappuccino", price: 140 },
-    { item: "White Mocha Frappuccino", price: 140 },
-    { item: "French Frappe", price: 140 },
-    { item: "Water", price: 15 },
+    { item: "Frappuccino", price: 150 },
+    { item: "Caramel Frappuccino", price: 150 },
+    { item: "Vanilla Frappuccino", price: 150 },
+    { item: "Mocha Frappuccino", price: 150 },
+    { item: "White Mocha Frappuccino", price: 150 },
+    { item: "French Frappe", price: 150 },
+    { item: "Water", price: 20 },
   ],
   ice_coffee: [
     { item: "Caramel Ice Latte", price: 100 },
@@ -36,13 +36,13 @@ const data = {
     { item: "Passion Fruit Ice Tea", price: 100 },
   ],
   milkshakes: [
-    { item: "Vanilla Milkshake", price: 140 },
-    { item: "Chocolate Milkshake", price: 140 },
-    { item: "Strawberry Milkshake", price: 140 },
-    { item: "Lotus Milkshake", price: 140 },
-    { item: "Orea Cookies Milkshake", price: 140 },
-    { item: "Nescafe Milkshake", price: 140 },
-    { item: "Blueberry Milkshake", price: 140 },
+    { item: "Vanilla Milkshake", price: 150 },
+    { item: "Chocolate Milkshake", price: 150 },
+    { item: "Strawberry Milkshake", price: 150 },
+    { item: "Lotus Milkshake", price: 150 },
+    { item: "Orea Cookies Milkshake", price: 150 },
+    { item: "Nescafe Milkshake", price: 150 },
+    { item: "Blueberry Milkshake", price: 150 },
     { item: "Brownie Milkshake", price: 150 },
   ],
   smoothies: [
@@ -53,14 +53,14 @@ const data = {
     { item: "Passion Fruit Smoothie", price: 120 },
   ],
   ground_coffee: [
-    { item: "Original Blend", price: 520 },
+    { item: "Original Blend", price: 550 },
     { item: "Masabat Blend", price: 440 },
   ],
   nuts_candy: [
-    { item: "Original Nuts (1KG)", price: 420 },
+    { item: "Original Nuts (1KG)", price: 500 },
     { item: "Extra Nuts (200g)", price: 280
  },
-    { item: "Gummies (200g)", price: 84 },
+    { item: "Gummies (200g)", price: 100 },
   ],
 };
 
