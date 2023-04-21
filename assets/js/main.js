@@ -21,6 +21,9 @@ const data = {
     { item: "Mocha Frappuccino", price: 150 },
     { item: "White Mocha Frappuccino", price: 150 },
     { item: "French Frappe", price: 150 },
+    { item: "Pinacolada", price: 200  },
+    { item: "Mohito", price: 200 },
+    { item: "Rakwaty Drink", price: 200 },
     { item: "Water", price: 20 },
   ],
   ice_coffee: [
@@ -44,6 +47,7 @@ const data = {
     { item: "Nescafe Milkshake", price: 150 },
     { item: "Blueberry Milkshake", price: 150 },
     { item: "Brownie Milkshake", price: 150 },
+    { item: "Coconut", price: 200 },
   ],
   smoothies: [
     { item: "Peach Smoothie", price: 120 },
