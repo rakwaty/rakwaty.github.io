@@ -27,11 +27,11 @@ const data = {
     { item: "Water", price: 20 },
   ],
   ice_coffee: [
-    { item: "Caramel Ice Latte", price: 100 },
-    { item: "Vanilla Ice Latte", price: 100 },
-    { item: "Mocha Ice Latte", price: 100 },
-    { item: "White Mocha Ice Latte", price: 100 },
-    { item: "Spanish Ice Latte", price: 100 },
+    { item: "Caramel Ice Latte", price: 120 },
+    { item: "Vanilla Ice Latte", price: 120 },
+    { item: "Mocha Ice Latte", price: 120 },
+    { item: "White Mocha Ice Latte", price: 120 },
+    { item: "Spanish Ice Latte", price: 120 },
   ],
   ice_tea: [
     { item: "Peach Ice Tea", price: 100 },
