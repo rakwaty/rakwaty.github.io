@@ -23,8 +23,7 @@ const data = {
     { item: "French Frappe", price: 150 },
     { item: "Pinacolada", price: 200  },
     { item: "Mohito", price: 200 },
-    { item: "Rakwaty Drink", price: 200 },
-  { item: "orange & kiwi ", price: 180 }
+    { item: "Rakwaty Drink", price: 200 },}
     { item: "Water", price: 20 },
   ],
   ice_coffee: [
