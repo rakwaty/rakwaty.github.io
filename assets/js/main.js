@@ -1,9 +1,9 @@
 const data = {
   hot_drinks: [
-    { item: "Espresso", price: 30 },
-    { item: "Cappucino", price: 60 },
-    { item: "Americano", price: 50 },
-    { item: "Nescafe", price: 80 },
+    { item: "Espresso", price: 35 },
+    { item: "Cappucino", price: 80 },
+    { item: "Americano", price: 60 },
+    { item: "Nescafe", price: 100 },
     { item: "White Mocha", price: 140 },
     { item: "Latte", price: 100 },
     { item: "Latte Machiato", price: 120 },
@@ -24,7 +24,7 @@ const data = {
     { item: "Pinacolada", price: 180  },
     { item: "Mohito", price: 200 },
     { item: "Rakwaty Drink", price: 200 },
-    { item: "Water", price: 20 },
+    { item: "Water", price: 25 },
   ],
   ice_coffee: [
     { item: "Caramel Ice Latte", price: 130 },
@@ -58,10 +58,10 @@ const data = {
   ],
   ground_coffee: [
     { item: "Original Blend", price: 575 },
-    { item: "Masabat Blend", price: 450 },
+    { item: "Masabat Blend", price: 470 },
   ],
   nuts_candy: [
-    { item: "Original Nuts (1KG)", price: 400 },
+    { item: "Original Nuts (1KG)", price: 480 },
     { item: "Extra Nuts (200g)", price: 260 },
     { item: "Gummies (200g)", price: 100 },
   ],
