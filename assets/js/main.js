@@ -2,7 +2,7 @@ const data = {
   hot_drinks: [
     { item: "Espresso", price: 40 },
     { item: "Cappucino", price: 80 },
-    { item: "Americano", price: 60 },
+    { item: "Americano", price: 70 },
     { item: "Nescafe", price: 100 },
     { item: "White Mocha", price: 120 },
     { item: "Latte", price: 100 },
@@ -57,12 +57,12 @@ const data = {
     { item: "Passion Fruit Smoothie", price: 200 },
   ],
   ground_coffee: [
-    { item: "Original Blend", price: 700 },
-    { item: "Masabat Blend", price: 660 },
+    { item: "Original Blend", price: 750 },
+    { item: "Masabat Blend", price: 720 },
   ],
   nuts_candy: [
-    { item: "Original Nuts (1KG)", price: 480 },
-    { item: "Extra Nuts (200g)", price: 260 },
+    { item: "Original Nuts (1KG)", price: 550 },
+    { item: "Extra Nuts (200g)", price: 300 },
     { item: "Gummies (200g)", price: 100 },
   ],
 };
